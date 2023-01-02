@@ -1,0 +1,13 @@
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/Oauth2ResourceServerApplication.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/controller/UserController.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/service/UserServiceImpl.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/model/User.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/model/Utility.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/repository/UtilityRespository.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/config/OauthResourceServerConfig.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/service/UserService.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/model/Role.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/service/UtilityService.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/service/UtilityServiceImpl.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/controller/UtilityResourceController.java
+/home/milton/my-workspace/Oauth2ResourceServer/src/main/java/com/milton/auth2/repository/UserRepository.java
